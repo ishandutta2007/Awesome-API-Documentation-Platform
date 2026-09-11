@@ -1,8 +1,31 @@
-# Awesome-API-Documentation-Platform
+<div align="center">
 
-## 📚 Top API Documentation Platforms & Open-Source API Docs
+<a href="https://github.com/ishandutta2007/Awesome-API-Documentation-Platform">
+  <img src="assets/banner.svg" alt="Awesome API Documentation Platform & Developer Portals" width="100%" />
+</a>
 
-> A curated list of **API documentation platforms, developer portals, OpenAPI documentation tools, API reference generators, docs-as-code platforms and open-source API documentation software**.
+# 🚀 Awesome API Documentation Platform 📚
+
+<p align="center">
+  <strong>The Definitive Guide to API Documentation Platforms, OpenAPI 3.1 Tools, Interactive Developer Portals & Docs-as-Code Frameworks</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-API-Documentation-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-API-Documentation-Platform?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-API-Documentation-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-API-Documentation-Platform?style=social" alt="GitHub Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-API-Documentation-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg" alt="License: CC0-1.0"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+</div>
+
+---
+
+## 🌟 Overview & Ecosystem Architecture
+
+> 🎯 A meticulously curated catalog and architectural index of **API documentation platforms, developer portals, OpenAPI 3.0 / 3.1 documentation tools, API reference generators, docs-as-code static site frameworks, SDK generators, and open-source API documentation software**. Whether building an internal developer portal or launching public enterprise API docs, find the perfect tool for your technical stack.
 
 API documentation platforms sit between an API specification and the developer consuming the API. Modern platforms increasingly combine:
 
@@ -1624,5 +1647,12 @@ consider giving this repository a ⭐ **Star** and contributing new projects.
 
 ---
 
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-API-Documentation-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-API-Documentation-Platform&type=date&legend=top-left)
+
+---
+
 **Last updated: September 2026**
+
 
