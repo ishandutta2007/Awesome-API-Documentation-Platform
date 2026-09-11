@@ -67,7 +67,7 @@
   <circle cx="650" cy="80" r="100" fill="#c084fc" opacity="0.12" filter="url(#glow)" class="pulse-circle" style="animation-delay: 1s;" />
 
   <!-- Main Left Content -->
-  <g transform="translate(70, 75)">
+  <g transform="translate(470, 75)">
     <!-- Badge -->
     <rect width="240" height="30" rx="15" fill="#1e293b" stroke="#38bdf8" stroke-opacity="0.4" stroke-width="1" />
     <circle cx="16" cy="15" r="5" fill="#38bdf8">
@@ -76,12 +76,12 @@
     <text x="32" y="20" class="tag">CURATED ECOSYSTEM 2026</text>
 
     <!-- Title & Subtitle -->
-    <text x="0" y="80" class="title">Awesome API Documentation</text>
-    <text x="0" y="125" class="title" fill="#f8fafc">&amp; Developer Platforms</text>
-    <text x="0" y="170" class="subtitle">OpenAPI • Swagger • Developer Portals • Docs-as-Code • SDK Tooling</text>
+    <text x="00" y="80" class="title">Awesome API Documentation</text>
+    <text x="00" y="125" class="title" fill="#f8fafc">&amp; Developer Platforms</text>
+    <text x="00" y="170" class="subtitle">OpenAPI • Swagger • Developer Portals • Docs-as-Code • SDK Tooling</text>
 
     <!-- Pill metrics -->
-    <g transform="translate(0, 205)">
+    <g transform="translate(00, 205)">
       <rect width="130" height="34" rx="8" fill="#1e293b" stroke="#334155" />
       <text x="18" y="22" font-family="-apple-system, sans-serif" font-size="13" font-weight="700" fill="#38bdf8">⚡ OpenAPI 3.1</text>
 
