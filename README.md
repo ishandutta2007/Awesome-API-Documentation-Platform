@@ -161,17 +161,16 @@ Redoc is explicitly open source and generates responsive API documentation from 
 
 API reference renderers transform an OpenAPI / Swagger specification into browsable documentation.
 
-| Project                                                                | Description                                | License / Model |
-| ---------------------------------------------------------------------- | ------------------------------------------ | --------------- |
-| [Swagger UI](https://github.com/swagger-api/swagger-ui)                | Interactive OpenAPI documentation          | Apache-2.0      |
-| [ReDoc](https://github.com/Redocly/redoc)                              | Three-panel OpenAPI documentation renderer | MIT             |
-| [Scalar](https://github.com/scalar/scalar)                             | Modern OpenAPI reference + API client      | MIT             |
-| [RapiDoc](https://github.com/rapi-doc/RapiDoc)                         | Customizable OpenAPI web component         | MIT             |
-| [Stoplight Elements](https://github.com/stoplightio/elements)          | API documentation components               | MIT             |
-| [OpenAPI Explorer](https://github.com/DanielTheSaint/openapi-explorer) | Web-component OpenAPI renderer             | MIT             |
-| [Rapidoc](https://github.com/rapi-doc/RapiDoc)                         | Interactive API reference                  | MIT             |
-| [ZeroMD](https://github.com/zeromd/zeromd)                             | Markdown documentation renderer            | Open source     |
-| [DapperDox](https://github.com/DapperDox/dapperdox)                    | OpenAPI documentation server               | Apache-2.0      |
+| Project | Stars | Description | License / Model |
+| --- | :---: | --- | --- |
+| [Swagger UI](https://github.com/swagger-api/swagger-ui) [![Stars](https://img.shields.io/github/stars/swagger-api/swagger-ui?style=social&color=white)](https://github.com/swagger-api/swagger-ui/stargazers) | 29k+ | Interactive OpenAPI documentation | Apache-2.0 |
+| [ReDoc](https://github.com/Redocly/redoc) [![Stars](https://img.shields.io/github/stars/Redocly/redoc?style=social&color=white)](https://github.com/Redocly/redoc/stargazers) | 25.9k+ | Three-panel OpenAPI documentation renderer | MIT |
+| [Scalar](https://github.com/scalar/scalar) [![Stars](https://img.shields.io/github/stars/scalar/scalar?style=social&color=white)](https://github.com/scalar/scalar/stargazers) | 16k+ | Modern OpenAPI reference + API client | MIT |
+| [Stoplight Elements](https://github.com/stoplightio/elements) [![Stars](https://img.shields.io/github/stars/stoplightio/elements?style=social&color=white)](https://github.com/stoplightio/elements/stargazers) | 2.4k+ | API documentation components | MIT |
+| [RapiDoc](https://github.com/rapi-doc/RapiDoc) [![Stars](https://img.shields.io/github/stars/rapi-doc/RapiDoc?style=social&color=white)](https://github.com/rapi-doc/RapiDoc/stargazers) | 1.9k+ | Customizable OpenAPI web component | MIT |
+| [ZeroMD](https://github.com/zerodevx/zero-md) [![Stars](https://img.shields.io/github/stars/zerodevx/zero-md?style=social&color=white)](https://github.com/zerodevx/zero-md/stargazers) | 550+ | Markdown documentation web component | MIT |
+| [DapperDox](https://github.com/DapperDox/dapperdox) [![Stars](https://img.shields.io/github/stars/DapperDox/dapperdox?style=social&color=white)](https://github.com/DapperDox/dapperdox/stargazers) | 410+ | OpenAPI documentation server | Apache-2.0 |
+| [OpenAPI Explorer](https://github.com/authress-engineering/openapi-explorer) [![Stars](https://img.shields.io/github/stars/authress-engineering/openapi-explorer?style=social&color=white)](https://github.com/authress-engineering/openapi-explorer/stargazers) | 350+ | Web-component OpenAPI renderer | Apache-2.0 |
 
 ### Swagger UI
 
@@ -248,22 +247,22 @@ Scalar describes its API client as offline-first and its API reference as open-s
 
 # 🧩 Open-Source API Documentation Platforms
 
-| Project                                                                           | Primary Function       | Best For                  |
-| --------------------------------------------------------------------------------- | ---------------------- | ------------------------- |
-| [Swagger UI](https://github.com/swagger-api/swagger-ui)                           | API reference          | OpenAPI reference         |
-| [ReDoc](https://github.com/Redocly/redoc)                                         | API reference          | Polished API docs         |
-| [Scalar](https://github.com/scalar/scalar)                                        | API platform           | Modern API docs + client  |
-| [Stoplight Elements](https://github.com/stoplightio/elements)                     | API docs components    | Embedded API reference    |
-| [Docusaurus](https://github.com/facebook/docusaurus)                              | Documentation site     | Full developer portals    |
-| [MkDocs](https://github.com/mkdocs/mkdocs)                                        | Static docs            | Markdown docs             |
-| [Material for MkDocs](https://github.com/squidfunk/mkdocs-material)               | Docs theme/system      | Production docs           |
-| [VitePress](https://github.com/vuejs/vitepress)                                   | Static docs            | Vue/Vite ecosystems       |
-| [Nextra](https://github.com/shuding/nextra)                                       | Next.js docs           | React/Next.js docs        |
-| [Fumadocs](https://github.com/fuma-nama/fumadocs)                                 | Next.js docs framework | Modern developer docs     |
-| [Docsify](https://github.com/docsifyjs/docsify)                                   | Dynamic Markdown docs  | Lightweight docs          |
-| [Slate](https://github.com/slatedocs/slate)                                       | API documentation      | API reference             |
-| [Docusaurus OpenAPI](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs) | OpenAPI + Docusaurus   | Full docs + API reference |
-| [RapiDoc](https://github.com/rapi-doc/RapiDoc)                                    | OpenAPI renderer       | Embedded reference        |
+| Project | Stars | Primary Function | Best For |
+| --- | :---: | --- | --- |
+| [Docusaurus](https://github.com/facebook/docusaurus) [![Stars](https://img.shields.io/github/stars/facebook/docusaurus?style=social&color=white)](https://github.com/facebook/docusaurus/stargazers) | 66.2k+ | Documentation site | Full developer portals |
+| [Slate](https://github.com/slatedocs/slate) [![Stars](https://img.shields.io/github/stars/slatedocs/slate?style=social&color=white)](https://github.com/slatedocs/slate/stargazers) | 36k+ | API documentation | Clean 3-panel API reference |
+| [Docsify](https://github.com/docsifyjs/docsify) [![Stars](https://img.shields.io/github/stars/docsifyjs/docsify?style=social&color=white)](https://github.com/docsifyjs/docsify/stargazers) | 31.5k+ | Dynamic Markdown docs | Lightweight docs |
+| [Swagger UI](https://github.com/swagger-api/swagger-ui) [![Stars](https://img.shields.io/github/stars/swagger-api/swagger-ui?style=social&color=white)](https://github.com/swagger-api/swagger-ui/stargazers) | 29k+ | API reference | OpenAPI reference |
+| [Material for MkDocs](https://github.com/squidfunk/mkdocs-material) [![Stars](https://img.shields.io/github/stars/squidfunk/mkdocs-material?style=social&color=white)](https://github.com/squidfunk/mkdocs-material/stargazers) | 27.4k+ | Docs theme/system | Production docs |
+| [ReDoc](https://github.com/Redocly/redoc) [![Stars](https://img.shields.io/github/stars/Redocly/redoc?style=social&color=white)](https://github.com/Redocly/redoc/stargazers) | 25.9k+ | API reference | Polished API docs |
+| [MkDocs](https://github.com/mkdocs/mkdocs) [![Stars](https://img.shields.io/github/stars/mkdocs/mkdocs?style=social&color=white)](https://github.com/mkdocs/mkdocs/stargazers) | 22.4k+ | Static docs | Markdown docs |
+| [VitePress](https://github.com/vuejs/vitepress) [![Stars](https://img.shields.io/github/stars/vuejs/vitepress?style=social&color=white)](https://github.com/vuejs/vitepress/stargazers) | 18.3k+ | Static docs | Vue/Vite ecosystems |
+| [Scalar](https://github.com/scalar/scalar) [![Stars](https://img.shields.io/github/stars/scalar/scalar?style=social&color=white)](https://github.com/scalar/scalar/stargazers) | 16k+ | API platform | Modern API docs + client |
+| [Nextra](https://github.com/shuding/nextra) [![Stars](https://img.shields.io/github/stars/shuding/nextra?style=social&color=white)](https://github.com/shuding/nextra/stargazers) | 13.9k+ | Next.js docs | React/Next.js docs |
+| [Fumadocs](https://github.com/fuma-nama/fumadocs) [![Stars](https://img.shields.io/github/stars/fuma-nama/fumadocs?style=social&color=white)](https://github.com/fuma-nama/fumadocs/stargazers) | 13.1k+ | Next.js docs framework | Modern developer docs |
+| [Stoplight Elements](https://github.com/stoplightio/elements) [![Stars](https://img.shields.io/github/stars/stoplightio/elements?style=social&color=white)](https://github.com/stoplightio/elements/stargazers) | 2.4k+ | API docs components | Embedded API reference |
+| [RapiDoc](https://github.com/rapi-doc/RapiDoc) [![Stars](https://img.shields.io/github/stars/rapi-doc/RapiDoc?style=social&color=white)](https://github.com/rapi-doc/RapiDoc/stargazers) | 1.9k+ | OpenAPI renderer | Embedded reference |
+| [Docusaurus OpenAPI](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs) [![Stars](https://img.shields.io/github/stars/PaloAltoNetworks/docusaurus-openapi-docs?style=social&color=white)](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/stargazers) | 1.1k+ | OpenAPI + Docusaurus | Full docs + API reference |
 
 ---
 
@@ -412,22 +411,20 @@ A typical Slate-style page combines:
 
 A production API documentation stack requires more than a renderer.
 
-| Project                                                                    | Role                                 |
-| -------------------------------------------------------------------------- | ------------------------------------ |
-| [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification)      | API description standard             |
-| [Swagger Parser](https://github.com/swagger-api/swagger-parser)            | OpenAPI parsing / validation         |
-| [Redocly CLI](https://github.com/Redocly/redocly-cli)                      | Linting, bundling and transformation |
-| [Spectral](https://github.com/stoplightio/spectral)                        | API linting                          |
-| [Vacuum](https://github.com/daveshanley/vacuum)                            | OpenAPI linting                      |
-| [openapi-generator](https://github.com/OpenAPITools/openapi-generator)     | SDK / server generation              |
-| [OpenAPI Generator CLI](https://github.com/OpenAPITools/openapi-generator) | Code generation                      |
-| [Prism](https://github.com/stoplightio/prism)                              | Mocking / validation                 |
-| [openapi-diff](https://github.com/Tufin/oasdiff)                           | OpenAPI breaking-change detection    |
-| [oasdiff](https://github.com/Tufin/oasdiff)                                | OpenAPI comparison                   |
-| [openapi-typescript](https://github.com/openapi-ts/openapi-typescript)     | TypeScript generation                |
-| [orval](https://github.com/orval-labs/orval)                               | TypeScript clients / mocks           |
-| [openapi-zod-client](https://github.com/astahmer/openapi-zod-client)       | Zod client generation                |
-| [openapi-cli](https://github.com/OAI/OpenAPI-Specification)                | OpenAPI workflows                    |
+| Project | Stars | Role |
+| --- | :---: | --- |
+| [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification) [![Stars](https://img.shields.io/github/stars/OAI/OpenAPI-Specification?style=social&color=white)](https://github.com/OAI/OpenAPI-Specification/stargazers) | 31.2k+ | API description standard |
+| [openapi-generator](https://github.com/OpenAPITools/openapi-generator) [![Stars](https://img.shields.io/github/stars/OpenAPITools/openapi-generator?style=social&color=white)](https://github.com/OpenAPITools/openapi-generator/stargazers) | 26.7k+ | SDK / server generation |
+| [openapi-typescript](https://github.com/openapi-ts/openapi-typescript) [![Stars](https://img.shields.io/github/stars/openapi-ts/openapi-typescript?style=social&color=white)](https://github.com/openapi-ts/openapi-typescript/stargazers) | 8.3k+ | TypeScript generation |
+| [orval](https://github.com/orval-labs/orval) [![Stars](https://img.shields.io/github/stars/orval-labs/orval?style=social&color=white)](https://github.com/orval-labs/orval/stargazers) | 6.4k+ | TypeScript clients / mocks |
+| [Prism](https://github.com/stoplightio/prism) [![Stars](https://img.shields.io/github/stars/stoplightio/prism?style=social&color=white)](https://github.com/stoplightio/prism/stargazers) | 5.0k+ | Mocking / validation |
+| [connexion](https://github.com/spec-first/connexion) [![Stars](https://img.shields.io/github/stars/spec-first/connexion?style=social&color=white)](https://github.com/spec-first/connexion/stargazers) | 4.6k+ | OpenAPI-first Python web framework |
+| [Spectral](https://github.com/stoplightio/spectral) [![Stars](https://img.shields.io/github/stars/stoplightio/spectral?style=social&color=white)](https://github.com/stoplightio/spectral/stargazers) | 3.2k+ | API linting & governance |
+| [Redocly CLI](https://github.com/Redocly/redocly-cli) [![Stars](https://img.shields.io/github/stars/Redocly/redocly-cli?style=social&color=white)](https://github.com/Redocly/redocly-cli/stargazers) | 1.5k+ | Linting, bundling and transformation |
+| [oasdiff](https://github.com/Tufin/oasdiff) [![Stars](https://img.shields.io/github/stars/Tufin/oasdiff?style=social&color=white)](https://github.com/Tufin/oasdiff/stargazers) | 1.3k+ | OpenAPI breaking-change detection & comparison |
+| [openapi-zod-client](https://github.com/astahmer/openapi-zod-client) [![Stars](https://img.shields.io/github/stars/astahmer/openapi-zod-client?style=social&color=white)](https://github.com/astahmer/openapi-zod-client/stargazers) | 1.1k+ | Zod client generation |
+| [Vacuum](https://github.com/daveshanley/vacuum) [![Stars](https://img.shields.io/github/stars/daveshanley/vacuum?style=social&color=white)](https://github.com/daveshanley/vacuum/stargazers) | 1.1k+ | High-performance OpenAPI linting |
+| [Swagger Parser](https://github.com/swagger-api/swagger-parser) [![Stars](https://img.shields.io/github/stars/swagger-api/swagger-parser?style=social&color=white)](https://github.com/swagger-api/swagger-parser/stargazers) | 860+ | OpenAPI parsing / validation |
 
 ---
 
@@ -531,19 +528,19 @@ A developer portal is broader than API reference documentation.
 
 Strong open-source building blocks include:
 
-| Project            | Portal Role                |
-| ------------------ | -------------------------- |
-| Docusaurus         | Complete docs site         |
-| MkDocs + Material  | Complete docs site         |
-| VitePress          | Complete docs site         |
-| Nextra             | Next.js developer portal   |
-| Fumadocs           | Next.js docs platform      |
-| Docsify            | Lightweight docs portal    |
-| Backstage          | Developer portal platform  |
-| Scalar             | API reference + API client |
-| ReDoc              | API reference              |
-| Swagger UI         | API reference              |
-| Stoplight Elements | API reference components   |
+| Project | Stars | Portal Role |
+| --- | :---: | --- |
+| [Docusaurus](https://github.com/facebook/docusaurus) [![Stars](https://img.shields.io/github/stars/facebook/docusaurus?style=social&color=white)](https://github.com/facebook/docusaurus/stargazers) | 66.2k+ | Complete documentation portal framework |
+| [Backstage](https://github.com/backstage/backstage) [![Stars](https://img.shields.io/github/stars/backstage/backstage?style=social&color=white)](https://github.com/backstage/backstage/stargazers) | 34.4k+ | Enterprise developer portal & software catalog |
+| [Docsify](https://github.com/docsifyjs/docsify) [![Stars](https://img.shields.io/github/stars/docsifyjs/docsify?style=social&color=white)](https://github.com/docsifyjs/docsify/stargazers) | 31.5k+ | Lightweight runtime Markdown docs portal |
+| [Swagger UI](https://github.com/swagger-api/swagger-ui) [![Stars](https://img.shields.io/github/stars/swagger-api/swagger-ui?style=social&color=white)](https://github.com/swagger-api/swagger-ui/stargazers) | 29k+ | Embedded API reference & explorer |
+| [Material for MkDocs](https://github.com/squidfunk/mkdocs-material) [![Stars](https://img.shields.io/github/stars/squidfunk/mkdocs-material?style=social&color=white)](https://github.com/squidfunk/mkdocs-material/stargazers) | 27.4k+ | Production documentation system |
+| [ReDoc](https://github.com/Redocly/redoc) [![Stars](https://img.shields.io/github/stars/Redocly/redoc?style=social&color=white)](https://github.com/Redocly/redoc/stargazers) | 25.9k+ | 3-panel OpenAPI reference |
+| [VitePress](https://github.com/vuejs/vitepress) [![Stars](https://img.shields.io/github/stars/vuejs/vitepress?style=social&color=white)](https://github.com/vuejs/vitepress/stargazers) | 18.3k+ | Fast static developer docs portal |
+| [Scalar](https://github.com/scalar/scalar) [![Stars](https://img.shields.io/github/stars/scalar/scalar?style=social&color=white)](https://github.com/scalar/scalar/stargazers) | 16k+ | API reference + offline-first API client |
+| [Nextra](https://github.com/shuding/nextra) [![Stars](https://img.shields.io/github/stars/shuding/nextra?style=social&color=white)](https://github.com/shuding/nextra/stargazers) | 13.9k+ | Next.js developer documentation site |
+| [Fumadocs](https://github.com/fuma-nama/fumadocs) [![Stars](https://img.shields.io/github/stars/fuma-nama/fumadocs?style=social&color=white)](https://github.com/fuma-nama/fumadocs/stargazers) | 13.1k+ | Full-featured Next.js docs platform |
+| [Stoplight Elements](https://github.com/stoplightio/elements) [![Stars](https://img.shields.io/github/stars/stoplightio/elements?style=social&color=white)](https://github.com/stoplightio/elements/stargazers) | 2.4k+ | Modular API reference UI components |
 
 ---
 
@@ -572,20 +569,20 @@ This makes Backstage particularly relevant to enterprises building internal API 
 
 # 🔄 Open-Source API Docs Generators
 
-| Project           | Input               | Output                |
-| ----------------- | ------------------- | --------------------- |
-| ReDoc             | OpenAPI             | HTML                  |
-| Swagger UI        | OpenAPI             | Interactive HTML      |
-| Scalar            | OpenAPI             | API reference         |
-| RapiDoc           | OpenAPI             | Web component         |
-| Redocly CLI       | OpenAPI             | Bundled docs / HTML   |
-| Docusaurus        | Markdown / MDX      | Static site           |
-| MkDocs            | Markdown            | Static site           |
-| VitePress         | Markdown            | Static site           |
-| Nextra            | MDX                 | Next.js site          |
-| Fumadocs          | MDX / content       | Next.js site          |
-| Slate             | Markdown / API data | API docs              |
-| OpenAPI Generator | OpenAPI             | SDKs / servers / docs |
+| Project | Stars | Input | Output |
+| --- | :---: | --- | --- |
+| [Docusaurus](https://github.com/facebook/docusaurus) [![Stars](https://img.shields.io/github/stars/facebook/docusaurus?style=social&color=white)](https://github.com/facebook/docusaurus/stargazers) | 66.2k+ | Markdown / MDX | Static documentation site |
+| [Slate](https://github.com/slatedocs/slate) [![Stars](https://img.shields.io/github/stars/slatedocs/slate?style=social&color=white)](https://github.com/slatedocs/slate/stargazers) | 36k+ | Markdown / API data | 3-panel API documentation |
+| [Swagger UI](https://github.com/swagger-api/swagger-ui) [![Stars](https://img.shields.io/github/stars/swagger-api/swagger-ui?style=social&color=white)](https://github.com/swagger-api/swagger-ui/stargazers) | 29k+ | OpenAPI | Interactive HTML reference |
+| [openapi-generator](https://github.com/OpenAPITools/openapi-generator) [![Stars](https://img.shields.io/github/stars/OpenAPITools/openapi-generator?style=social&color=white)](https://github.com/OpenAPITools/openapi-generator/stargazers) | 26.7k+ | OpenAPI | SDKs / servers / HTML docs |
+| [ReDoc](https://github.com/Redocly/redoc) [![Stars](https://img.shields.io/github/stars/Redocly/redoc?style=social&color=white)](https://github.com/Redocly/redoc/stargazers) | 25.9k+ | OpenAPI | Responsive HTML reference |
+| [MkDocs](https://github.com/mkdocs/mkdocs) [![Stars](https://img.shields.io/github/stars/mkdocs/mkdocs?style=social&color=white)](https://github.com/mkdocs/mkdocs/stargazers) | 22.4k+ | Markdown | Static documentation site |
+| [VitePress](https://github.com/vuejs/vitepress) [![Stars](https://img.shields.io/github/stars/vuejs/vitepress?style=social&color=white)](https://github.com/vuejs/vitepress/stargazers) | 18.3k+ | Markdown / Vue | Static documentation site |
+| [Scalar](https://github.com/scalar/scalar) [![Stars](https://img.shields.io/github/stars/scalar/scalar?style=social&color=white)](https://github.com/scalar/scalar/stargazers) | 16k+ | OpenAPI | Modern API reference + client |
+| [Nextra](https://github.com/shuding/nextra) [![Stars](https://img.shields.io/github/stars/shuding/nextra?style=social&color=white)](https://github.com/shuding/nextra/stargazers) | 13.9k+ | MDX | Next.js documentation site |
+| [Fumadocs](https://github.com/fuma-nama/fumadocs) [![Stars](https://img.shields.io/github/stars/fuma-nama/fumadocs?style=social&color=white)](https://github.com/fuma-nama/fumadocs/stargazers) | 13.1k+ | MDX / content | Next.js documentation site |
+| [RapiDoc](https://github.com/rapi-doc/RapiDoc) [![Stars](https://img.shields.io/github/stars/rapi-doc/RapiDoc?style=social&color=white)](https://github.com/rapi-doc/RapiDoc/stargazers) | 1.9k+ | OpenAPI | Web component reference |
+| [Redocly CLI](https://github.com/Redocly/redocly-cli) [![Stars](https://img.shields.io/github/stars/Redocly/redocly-cli?style=social&color=white)](https://github.com/Redocly/redocly-cli/stargazers) | 1.5k+ | OpenAPI | Bundled HTML & zero-config docs |
 
 ---
 
@@ -593,17 +590,17 @@ This makes Backstage particularly relevant to enterprises building internal API 
 
 API documentation becomes much more useful when developers can immediately obtain SDKs.
 
-| Project                                                                | Purpose                              |
-| ---------------------------------------------------------------------- | ------------------------------------ |
-| [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) | Multi-language SDK/server generation |
-| [Kiota](https://github.com/microsoft/kiota)                            | API client generation                |
-| [openapi-typescript](https://github.com/openapi-ts/openapi-typescript) | TypeScript types                     |
-| [Orval](https://github.com/orval-labs/orval)                           | TypeScript clients                   |
-| [Fern](https://github.com/fern-api/fern)                               | API definition / SDK tooling         |
-| [Stainless](https://www.stainless.com/)                                | SDK generation platform              |
-| [Speakeasy](https://www.speakeasy.com/)                                | SDK generation platform              |
-| [Hey API](https://github.com/hey-api/openapi-ts)                       | TypeScript SDK generation            |
-| [openapi-zod-client](https://github.com/astahmer/openapi-zod-client)   | Zod clients                          |
+| Project | Stars | Purpose |
+| --- | :---: | --- |
+| [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) [![Stars](https://img.shields.io/github/stars/OpenAPITools/openapi-generator?style=social&color=white)](https://github.com/OpenAPITools/openapi-generator/stargazers) | 26.7k+ | Multi-language SDK/server generation |
+| [openapi-typescript](https://github.com/openapi-ts/openapi-typescript) [![Stars](https://img.shields.io/github/stars/openapi-ts/openapi-typescript?style=social&color=white)](https://github.com/openapi-ts/openapi-typescript/stargazers) | 8.3k+ | TypeScript types |
+| [Orval](https://github.com/orval-labs/orval) [![Stars](https://img.shields.io/github/stars/orval-labs/orval?style=social&color=white)](https://github.com/orval-labs/orval/stargazers) | 6.4k+ | TypeScript clients / mocks |
+| [Hey API](https://github.com/hey-api/openapi-ts) [![Stars](https://img.shields.io/github/stars/hey-api/openapi-ts?style=social&color=white)](https://github.com/hey-api/openapi-ts/stargazers) | 5.4k+ | TypeScript SDK generation |
+| [Kiota](https://github.com/microsoft/kiota) [![Stars](https://img.shields.io/github/stars/microsoft/kiota?style=social&color=white)](https://github.com/microsoft/kiota/stargazers) | 3.8k+ | Microsoft API client generation |
+| [Fern](https://github.com/fern-api/fern) [![Stars](https://img.shields.io/github/stars/fern-api/fern?style=social&color=white)](https://github.com/fern-api/fern/stargazers) | 3.7k+ | API definition & multi-language SDK tooling |
+| [openapi-zod-client](https://github.com/astahmer/openapi-zod-client) [![Stars](https://img.shields.io/github/stars/astahmer/openapi-zod-client?style=social&color=white)](https://github.com/astahmer/openapi-zod-client/stargazers) | 1.1k+ | Zod schema & client generation |
+| [Speakeasy](https://www.speakeasy.com/) | Hosted | Commercial SDK generation platform |
+| [Stainless](https://www.stainless.com/) | Discontinued | SDK generation platform (Acquired by Anthropic) |
 
 A typical pipeline:
 
@@ -631,19 +628,19 @@ API Reference     TypeScript
 
 # 🔍 Open-Source API Search & Discovery
 
-| Project           | Role                          |
-| ----------------- | ----------------------------- |
-| Backstage         | Internal API/software catalog |
-| OpenAPI Directory | Public API specifications     |
-| APIs.guru         | Public API definitions        |
-| Scalar Registry   | OpenAPI registry              |
-| Kong              | API gateway + ecosystem       |
-| Tyk               | API gateway / management      |
-| Gravitee          | API management                |
-| Apache APISIX     | API gateway                   |
-| KrakenD           | API gateway                   |
-| WSO2 API Manager  | API management                |
-| Swagger UI        | API exploration               |
+| Project | Stars | Role |
+| --- | :---: | --- |
+| [Kong](https://github.com/Kong/kong) [![Stars](https://img.shields.io/github/stars/Kong/kong?style=social&color=white)](https://github.com/Kong/kong/stargazers) | 44.1k+ | Cloud-native API gateway + ecosystem |
+| [Backstage](https://github.com/backstage/backstage) [![Stars](https://img.shields.io/github/stars/backstage/backstage?style=social&color=white)](https://github.com/backstage/backstage/stargazers) | 34.4k+ | Internal developer portal & API catalog |
+| [Swagger UI](https://github.com/swagger-api/swagger-ui) [![Stars](https://img.shields.io/github/stars/swagger-api/swagger-ui?style=social&color=white)](https://github.com/swagger-api/swagger-ui/stargazers) | 29k+ | Interactive API exploration |
+| [Apache APISIX](https://github.com/apache/apisix) [![Stars](https://img.shields.io/github/stars/apache/apisix?style=social&color=white)](https://github.com/apache/apisix/stargazers) | 17.1k+ | Dynamic, real-time API gateway |
+| [Scalar Registry](https://github.com/scalar/scalar) [![Stars](https://img.shields.io/github/stars/scalar/scalar?style=social&color=white)](https://github.com/scalar/scalar/stargazers) | 16k+ | OpenAPI registry & discovery |
+| [Tyk](https://github.com/TykTechnologies/tyk) [![Stars](https://img.shields.io/github/stars/TykTechnologies/tyk?style=social&color=white)](https://github.com/TykTechnologies/tyk/stargazers) | 10.8k+ | Open-source API gateway / management |
+| [OpenAPI Directory](https://github.com/APIs-guru/openapi-directory) [![Stars](https://img.shields.io/github/stars/APIs-guru/openapi-directory?style=social&color=white)](https://github.com/APIs-guru/openapi-directory/stargazers) | 4.5k+ | Public API specifications collection |
+| [KrakenD](https://github.com/krakendio/krakend-ce) [![Stars](https://img.shields.io/github/stars/krakendio/krakend-ce?style=social&color=white)](https://github.com/krakendio/krakend-ce/stargazers) | 2.6k+ | Ultra-high performance API gateway |
+| [WSO2 API Manager](https://github.com/wso2/product-apim) [![Stars](https://img.shields.io/github/stars/wso2/product-apim?style=social&color=white)](https://github.com/wso2/product-apim/stargazers) | 1.0k+ | Full lifecycle API management |
+| [Gravitee](https://github.com/gravitee-io/gravitee-api-management) [![Stars](https://img.shields.io/github/stars/gravitee-io/gravitee-api-management?style=social&color=white)](https://github.com/gravitee-io/gravitee-api-management/stargazers) | 450+ | Event-native API management |
+| [APIs.guru](https://apis.guru/) | Directory | Public API definition directory |
 
 ---
 
